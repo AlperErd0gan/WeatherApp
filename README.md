@@ -1,6 +1,4 @@
-Certainly! A README file typically provides information about the project, its purpose, and instructions on how to use it. Here's a sample README for your OpenWeatherMap API script:
 
-```markdown
 # Weather Information App
 
 This Python script fetches weather information for a given city using the OpenWeatherMap API.
@@ -40,6 +38,4 @@ The script will then print detailed weather information for the specified city.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Make sure to include a license file (e.g., `LICENSE`) and provide the appropriate details about the license you choose for your project. The MIT License is used in the example, but you can choose a different one if you prefer.
